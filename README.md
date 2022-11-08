@@ -1,0 +1,1 @@
+# rocketseat-ignite-nodejs-challenges-06-modelagem-banco-de-dados
